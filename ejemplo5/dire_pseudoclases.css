@@ -4,21 +4,21 @@ body {
 
 a	{
 		color: red;
-		font-size: 16pt;
+		font-size: 16px;
 		text-decoration: underline;
 	}
 
 /* Este es como el de antes */
 A:link	{
 		color: red;
-		font-size: 16pt;
+		font-size: 16px;
 		text-decoration: underline;
 	}
 
 /* a:hover se aplica a enlaces sobre los que ponemos el ratón */
 A:hover	{
 		color: red;
-		font-size: 16pt;
+		font-size: 16px;
 		font-style: bold;
 		text-decoration: none;
 	}
