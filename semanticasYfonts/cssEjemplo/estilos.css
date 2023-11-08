@@ -26,11 +26,8 @@ section{
     margin: 10%;
     padding: 30px;
 }
-.icoTamano{
-    font-size: 60px;
-    color: crimson;
-}
-.material-icons.md24{
-    font-size: 80px;
-    color: darkmagenta;
-}
+/* Material symbols */
+span.size-60{font-size: 60px;}
+span.size-100{font-size: 100px;}
+.symbolRed{color:red;}
+.faSize-60{font-size: 60px;}
